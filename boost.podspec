@@ -51,7 +51,7 @@ Pod::Spec.new do |s|
 				'boost/iterator/**/*.hpp',
 				'boost/signal.hpp',
 				'boost/signals.hpp',
-				'boost/signals/**/*.hpp'
+				'boost/signals/**/*.hpp',
 				'boost/signals2.hpp',
 				'boost/signals2/**/*.hpp'
   end
