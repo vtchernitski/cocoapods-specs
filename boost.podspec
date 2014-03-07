@@ -48,12 +48,7 @@ Pod::Spec.new do |s|
 				'boost/mpl/**/*.hpp',
 				'boost/preprocessor/**/*.hpp',
 				'boost/iterator.hpp',
-				'boost/iterator/**/*.hpp',
-				'boost/signal.hpp',
-				'boost/signals.hpp',
-				'boost/signals/**/*.hpp',
-				'boost/signals2.hpp',
-				'boost/signals2/**/*.hpp'
+				'boost/iterator/**/*.hpp'
   end
 
   s.subspec 'shared_ptr-includes' do |shared_ptr|
